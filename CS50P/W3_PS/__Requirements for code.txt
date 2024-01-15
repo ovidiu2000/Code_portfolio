@@ -1,1 +1,12 @@
+You can find the requirements for the posted code at the links below:
 
+
+Camel: https://cs50.harvard.edu/python/2022/psets/2/camel/
+
+Coke: https://cs50.harvard.edu/python/2022/psets/2/coke/
+
+Twttr: https://cs50.harvard.edu/python/2022/psets/2/twttr/
+
+Plates: https://cs50.harvard.edu/python/2022/psets/2/plates/
+
+Nutrition: https://cs50.harvard.edu/python/2022/psets/2/nutrition/
