@@ -1,1 +1,4 @@
+You can find the requirements for the posted code at the links below:
 
+
+Trie: https://cs50.harvard.edu/x/2023/problems/5/trie/
