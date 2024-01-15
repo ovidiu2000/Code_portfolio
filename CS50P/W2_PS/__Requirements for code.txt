@@ -1,1 +1,11 @@
+You can find the requirements for the posted code at the links below:
 
+Deep: https://cs50.harvard.edu/python/2022/psets/1/deep/
+
+Bank: https://cs50.harvard.edu/python/2022/psets/1/bank/
+
+Extensions: https://cs50.harvard.edu/python/2022/psets/1/extensions/
+
+Interpreter: https://cs50.harvard.edu/python/2022/psets/1/interpreter/
+
+Meal: https://cs50.harvard.edu/python/2022/psets/1/meal/
