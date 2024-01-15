@@ -1,1 +1,14 @@
+You can find the requirements for the posted code at the links below:
 
+
+Emojize: https://cs50.harvard.edu/python/2022/psets/4/emojize/
+
+Figlet: https://cs50.harvard.edu/python/2022/psets/4/figlet/
+
+Adieu: https://cs50.harvard.edu/python/2022/psets/4/adieu/
+
+Game: https://cs50.harvard.edu/python/2022/psets/4/game/
+
+Professor: https://cs50.harvard.edu/python/2022/psets/4/professor/
+
+Bitcoin: https://cs50.harvard.edu/python/2022/psets/4/bitcoin/
