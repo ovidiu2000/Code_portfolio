@@ -1,1 +1,12 @@
+You can find the requirements for the posted code at the links below:
 
+
+Indoor: https://cs50.harvard.edu/python/2022/psets/0/indoor/
+
+Playback: https://cs50.harvard.edu/python/2022/psets/0/playback/
+
+Faces: https://cs50.harvard.edu/python/2022/psets/0/faces/
+
+Einstein: https://cs50.harvard.edu/python/2022/psets/0/einstein/
+
+Tip: https://cs50.harvard.edu/python/2022/psets/0/tip/
