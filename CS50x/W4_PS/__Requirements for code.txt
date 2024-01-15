@@ -1,1 +1,12 @@
+You can find the requirements for the posted code at the links below:
 
+
+Bottomup : https://cs50.harvard.edu/x/2023/problems/4/bottomup/
+
+License: https://cs50.harvard.edu/x/2023/problems/4/license/
+
+Smiley: https://cs50.harvard.edu/x/2023/labs/4/smiley/
+
+Filter: https://cs50.harvard.edu/x/2023/psets/4/filter/less/
+
+Recover: https://cs50.harvard.edu/x/2023/psets/4/recover/
