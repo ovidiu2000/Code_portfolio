@@ -1,3 +1,14 @@
 You can find the requirements for the posted code at the links below:
 
 
+Hours: https://cs50.harvard.edu/x/2023/problems/2/hours/
+
+N0 V0w3ls: https://cs50.harvard.edu/x/2023/problems/2/no-vowels/
+
+Password: https://cs50.harvard.edu/x/2023/problems/2/password/
+
+Scrabble: https://cs50.harvard.edu/x/2023/labs/2/
+
+Readability: https://cs50.harvard.edu/x/2023/psets/2/readability/
+
+Caesar: https://cs50.harvard.edu/x/2023/psets/2/caesar/
