@@ -1,1 +1,10 @@
+You can find the requirements for the posted code at the links below:
 
+
+Test_twttr: https://cs50.harvard.edu/python/2022/psets/5/test_twttr/
+
+Test_bank: https://cs50.harvard.edu/python/2022/psets/5/test_bank/
+
+Test_plates: https://cs50.harvard.edu/python/2022/psets/5/test_plates/
+
+Test_fuel: https://cs50.harvard.edu/python/2022/psets/5/test_fuel/
