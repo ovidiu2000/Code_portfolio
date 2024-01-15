@@ -1,1 +1,10 @@
+You can find the requirements for the posted code at the links below:
 
+
+Fuel: https://cs50.harvard.edu/python/2022/psets/3/fuel/
+
+Taqueria: https://cs50.harvard.edu/python/2022/psets/3/taqueria/
+
+Grocery: https://cs50.harvard.edu/python/2022/psets/3/grocery/
+
+Outdated: https://cs50.harvard.edu/python/2022/psets/3/outdated/
