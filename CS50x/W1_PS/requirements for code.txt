@@ -1,6 +1,14 @@
-You can find the requirements for the posted code at the links
+You can find the requirements for the posted code at the links below:
 
+
+Half : https://cs50.harvard.edu/x/2023/problems/1/half/
+
+Prime : https://cs50.harvard.edu/x/2023/problems/1/prime/
+
+Population: https://cs50.harvard.edu/x/2023/labs/1/
 
 Mario : https://cs50.harvard.edu/x/2024/psets/1/mario/more/
 
+Cash: https://cs50.harvard.edu/x/2023/psets/1/cash/
 
+Credit: https://cs50.harvard.edu/x/2023/psets/1/credit/
