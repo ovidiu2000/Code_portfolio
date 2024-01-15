@@ -1,1 +1,16 @@
+You can find the requirements for the posted code at the links below:
 
+
+Recursive: https://cs50.harvard.edu/x/2023/problems/3/atoi/
+
+Average High Temperatures: https://cs50.harvard.edu/x/2023/problems/3/temps/
+
+Max: https://cs50.harvard.edu/x/2023/problems/3/max/
+
+Snackbar: https://cs50.harvard.edu/x/2023/problems/3/snackbar/
+
+Sort: https://cs50.harvard.edu/x/2023/labs/3/
+
+Plurality: https://cs50.harvard.edu/x/2023/psets/3/plurality/
+
+Runoff: https://cs50.harvard.edu/x/2023/psets/3/runoff/
