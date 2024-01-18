@@ -1,4 +1,8 @@
 You can find the requirements for the posted code at the links below:
 
 
+Lines: https://cs50.harvard.edu/python/2022/psets/6/lines/
 
+Pizza: https://cs50.harvard.edu/python/2022/psets/6/pizza/
+
+Scourgify: https://cs50.harvard.edu/python/2022/psets/6/scourgify/
